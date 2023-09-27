@@ -3,7 +3,6 @@
 https://www.zhihu.com/people/xiao-pu-21-16  <br>
 # 微信
 ![微信](assets/img/wechat.jpg "WeChat")
-wechat ID : pyao2015 <br>
 
 ## 教育背景
 2015-2020  中国科学院化学研究所     高分子物理与化学  理学博士 <br>
@@ -43,7 +42,7 @@ https://www.zhihu.com/column/c_1585372466670645248  <br>
 
 git init  <br>
 git add README.md  <br>
-git add .  
+git add .  <br>
 git commit -m "first commit" <br>
 git branch -M main <br>
 #git remote add origin https://github.com/LuckBoyPhd/Resume.git <br>
