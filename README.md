@@ -2,7 +2,7 @@
 # 知乎主页
 https://www.zhihu.com/people/xiao-pu-21-16  <br>
 # 微信
-![微信](/assets/img/wechat.jpg "WeChat")
+![微信](assets/img/wechat.jpg "WeChat")
 wechat ID : pyao2015 <br>
 
 ## 教育背景
@@ -11,8 +11,8 @@ wechat ID : pyao2015 <br>
 
 ## 深度学习框架能力
 Pytorch 深度学习框架的使用，Pytorch算子的二次开发,多GPU 的Pytorch算子开发。PyG和DGL等图学习框架。能够依据业务需要，设计算子，实现模型。<br>
-![DGL架构](/assets/img/DGL架构.png "DGL架构")
-![PyG架构](/assets/img/PyG架构.png "PyG架构")
+![DGL架构](assets/img/DGL架构.png "DGL架构")
+![PyG架构](assets/img/PyG架构.png "PyG架构")
 
 
 基于A100 GPU架构的图深度框架研发<br>
@@ -21,22 +21,29 @@ Pytorch 深度学习框架的使用，Pytorch算子的二次开发,多GPU 的Pyt
 
 企业影响力打造，沉淀和传播图算法业界知识 ,图计算的知识推广性强，由浅入深，便于各类人员学习掌握 , 应用价值高，典型应用实例 <br>
 书本地址: https://item.jd.com/13167491.html <br>
-![图书地址](/assets/img/图深度学习.jpg "图深度学习从理论到实践")
+![图书地址](assets/img/图深度学习.jpg "图深度学习从理论到实践")
 
+## 图算法的专栏
+https://www.zhihu.com/column/c_1584340115077484544 <br>
+
+## 大模型的介绍
+https://www.zhihu.com/column/c_1676193405808640000 <br>
 
 ## 参与英伟达分享
 https://zhuanlan.zhihu.com/p/644120716 <br>
 
-# 博士期间代码开发工作
+## 博士期间代码开发工作
 博士期间是是做分子动力学计算的。从事高分子熔体动力学的模拟研究，发表授权软件著作权两篇: <br>
 基于 GPU的 GAPS缠结高分子动力学模拟软件 [GAPS][V1.0]2019SR0050680 <br>
 基于贪心算法的缠结网络分析软件 [GENA][V1.0] 2020SR0045868  <br>
 
 
-
+# 对于生命意义的思考
+https://www.zhihu.com/column/c_1585372466670645248  <br>
 
 git init  <br>
 git add README.md  <br>
+git add .  
 git commit -m "first commit" <br>
 git branch -M main <br>
 #git remote add origin https://github.com/LuckBoyPhd/Resume.git <br>
