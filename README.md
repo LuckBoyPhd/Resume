@@ -3,6 +3,7 @@
 https://www.zhihu.com/people/xiao-pu-21-16  <br>
 # 微信
 ![微信](assets/img/wechat.jpg "WeChat")
+WeChat ID pyao2015  <br>
 
 ## 教育背景
 2015-2020  中国科学院化学研究所     高分子物理与化学  理学博士 <br>
