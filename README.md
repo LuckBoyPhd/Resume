@@ -1,4 +1,9 @@
 # Resume LuckyBoy
+# 知乎主页
+https://www.zhihu.com/people/xiao-pu-21-16  <br>
+# 微信
+![微信](/assets/img/wechat.jpg "WeChat")
+
 ## 教育背景
 2015-2020  中国科学院化学研究所     高分子物理与化学  理学博士 <br>
 2011-2015  北京化工大学（211 双一流） 高分子材料与工程 工学学士 </p>
@@ -33,6 +38,6 @@ git init  <br>
 git add README.md  <br>
 git commit -m "first commit" <br>
 git branch -M main <br>
-git remote add origin https://github.com/LuckBoyPhd/Resume.git <br>
+#git remote add origin https://github.com/LuckBoyPhd/Resume.git <br>
 git push -u origin main <br>
 https://markdown.com.cn/basic-syntax/paragraphs.html  <br>
