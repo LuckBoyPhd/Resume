@@ -5,15 +5,17 @@ https://www.zhihu.com/people/xiao-pu-21-16  <br>
 https://blog.csdn.net/Jerry_ICCAS <br>
 # 稀土掘金
 https://juejin.cn/user/3477073687483324  <br>
+# Github地址
+https://github.com/LuckBoyPhd <br>
 
 # 微信
 ![微信](assets/img/wechat.jpg "WeChat")
 
-加微信后，拉入交流群。 <br>
+
 
 ## 教育背景
-2015-2020  中国科学院化学研究所     高分子物理与化学  理学博士 <br>
-2011-2015  北京化工大学（211 双一流） 高分子材料与工程 工学学士 </p>
+2015-2020  中国科学院大学      理学博士 <br>
+2011-2015  北京化工大学 高分子材料与工程 工学学士 </p>
 ## 工作
 2020 - JD.COM  </p>
 
@@ -64,8 +66,7 @@ PyG和DGL等图学习框架。能够依据业务需要，设计算子，实现�
 分布式数据数据存储的能力：HADOOP 分布式文件读取系统。了解 Linux/Shell/Docker 等，能够独立完成工程实现和部署。<br>
 
 
-## 对于生命意义的思考
-https://www.zhihu.com/column/c_1585372466670645248  <br>
+
 
 
 
