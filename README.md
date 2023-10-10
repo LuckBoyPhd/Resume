@@ -53,6 +53,10 @@ https://zhuanlan.zhihu.com/p/644120716 <br>
 
 ## 研究成果
 
+## Publication
+[1] .Pu Yao， Lukun Feng， Hongxia Guo， Combined Molecular Dynamics Simulation and Extended Rouse Model Analysis of Static and Dynamic Properties of Unentangled Polymer Melts with Different Chain Architectures， Chinese Journal of Polymer Science <br>
+[2] Yedi Li,Pu Yao, Non-Rouse behavior of short ring polymers in melts by molecular dynamics simulations, SoftMatter, 2023 <br>
+[3] Pu Yao, Lukun Feng, Yedi Li, HongxiaGuo, Multiscale approach to  equilibrating polymer melts by force fields with same Flory characteristic ratio as the  standard KG potential </p>
 
 ## 专利
 [1] 一种采用变力场分子动力学方法实现缠结粗粒化高分子熔体平衡模型构建的方法. <br>
@@ -65,6 +69,14 @@ https://zhuanlan.zhihu.com/p/644120716 <br>
 [1] 基于 GPU的 GAPS缠结高分子动力学模拟软件 [GAPS][V1.0]2019SR0050680 <br>
 [2] 基于贪心算法的缠结网络分析软件 [GENA][V1.0] 2020SR0045868 <br>
 [3] 九数深度学习图平台1.0 2022SR1566505  </p>
+
+## 获奖
+[1] 2012 北京市大学生数学竞赛 三等奖 <br>
+[2] 2012 全国大学生物理竞赛 三等奖 <br>
+[3] 2013 高教社杯数学建模竞赛 北京市二等奖 <br>
+[4] 2014 国家励志奖学金 <br>
+[5] 2017-2018 连续两次获得中国科学院大学三好学生 <br>
+[6] 2019 中科院化学所青年科学家优秀奖  </p>
 
 
 # 编程技能
