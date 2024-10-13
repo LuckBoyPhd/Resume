@@ -8,8 +8,8 @@ https://juejin.cn/user/3477073687483324  <br>
 # Github地址
 https://github.com/LuckBoyPhd <br>
 
-# 微信
-![微信](assets/img/wechat.jpg "WeChat")
+# 微信公众号
+![微信公众号](assets/img/微信公众号.jpg "WeChat")
 
 
 
